@@ -1,6 +1,6 @@
 # RepairTrack
 
-
+![re](Screenshot.jpg)
 
 RepairTrack is a multi-tenant repair shop management system for electronics service businesses.
 It combines a responsive frontend (desktop + mobile), an Express/SQLite backend API, and an admin portal for platform-level controls.
